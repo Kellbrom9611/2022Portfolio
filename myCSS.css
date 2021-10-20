@@ -3,7 +3,8 @@
 body {
 	margin: 0 auto;
 	font: 100%/1.4 monospace;
-	font-family: cursive;
+	font-family: monospace;
+	
 }
 .homePage {
 	background: #FFE0EA;
@@ -50,11 +51,12 @@ body {
 	color: #FFFFFF;
 }
 a:link {
-     color: #FFFFFF;
+     color: #FCC0C2;
 	
 }
 a:visited {
      color: #FFFFFF;
 }
 a:hover, a:active, a:focus { 
+	text-decoration: line-through;
 }
